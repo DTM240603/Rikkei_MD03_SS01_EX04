@@ -1,4 +1,4 @@
-package re.edu.ex01;
+package re.edu.ex04;
 
 import lombok.*;
 import java.math.BigDecimal;

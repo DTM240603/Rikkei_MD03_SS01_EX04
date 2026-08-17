@@ -1,13 +1,13 @@
-package re.edu.ex01;
+package re.edu.ex04;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ex01Application {
+public class Ex04Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Ex01Application.class, args);
+        SpringApplication.run(Ex04Application.class, args);
     }
 
 }
